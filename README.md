@@ -4,7 +4,7 @@
 
 **Presented by: Sriharsha Guduguntla, Chinmay Gharpure, Jai Sankar**
 
-In Phase 1, we completed a challenge to calculate the offensive ratings for every NBA player in the 2018 NBA Playoffs. For Phase 2, we authored a 2-page research proposal for the model. For Phase 3, we built the classification model and presented it at the NBA Hackathon 2019 Conference in Secaucus, NJ. 
+In Phase 1, we completed a challenge to calculate the offensive ratings for every NBA player in the 2018 NBA Playoffs. For Phase 2, we authored a 2-page research proposal ([Link to paper](https://bit.ly/2n2FXGw)) for the model. For Phase 3, we built the classification model and presented it at the NBA Hackathon 2019 Conference in Secaucus, NJ. 
 
 # Phase 3 - Classification Model
 
