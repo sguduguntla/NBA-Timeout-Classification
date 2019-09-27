@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+*.docx
+*.pyc
+.DS_Store
+*.txt
+/data
+*/data
